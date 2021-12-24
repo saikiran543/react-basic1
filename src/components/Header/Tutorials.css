@@ -1,0 +1,15 @@
+.leftside{
+    display: block;
+    padding: 10px 10px 10px 10px;
+}
+.allign{
+    display: inline-flex;
+    color: white;
+}
+.items{
+    display: block;
+    
+}
+.h2{
+    color: rgb(255, 244, 163);
+}
